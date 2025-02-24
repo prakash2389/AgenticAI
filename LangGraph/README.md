@@ -8,7 +8,7 @@
 1) Node
 2) Edge
 3) State
-4) State MAchine
+4) State Machine : It will choose the path of the workflow based on State after every node responses
 
 **Example**
 state = {
