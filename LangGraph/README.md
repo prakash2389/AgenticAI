@@ -10,4 +10,11 @@
 3) State
 4) State MAchine
 
+**Example**
+state = {
+"messages" : [{"role": "user", "content": "what are the top products"},
+{"role": "db_query_tool", "content": "I couldnt find the products"}
+]
+}
+
 
