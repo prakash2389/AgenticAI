@@ -13,6 +13,16 @@ Lets plan trip and do couple of below things
 4) Sight Seeing Agent
 5) Currency Converions Agent
 
+All Agents can be interconnected, and grouped under one agent
+
+
+1 <---> 2
+1 <---> 3
+2 <---> 3
+1 <---> 4
+2 <---> 4 ...............
+
+
 Once we have all agents, App can guide each agent to give suggest, take decison and also act on it.
 
 
@@ -24,5 +34,19 @@ In a office, in chatbot, if user has to redirect the query to respective departm
 2) Insurance Agent
 3) HR Agent
 4) Security Agent
+
+
+Each Crew Agent has
+**Name**
+**Role**
+**Goal**
+**Backstory**
+**Model(LLM)**
+**Tools(APIs, Databases)**
+
+
+
+
+
 
 
