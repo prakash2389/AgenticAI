@@ -1,0 +1,23 @@
+
+### Tools Examples ####
+
+
+from langchain_community.tools import DuckDuckGoSearchRun
+
+def search_duckduckgo(query: str):
+    """Searches DuckDuckGo using Langchian's DuckDUckGoSearchRun tool."""
+    search = DuckDuckGoSearchRun()
+    return search.invoke(query)
+
+search_duckduckgo ###### Tool
+
+#Custom Tool
+
+def add_numbers(a:float, b:float) -> str:
+   return str(a+b)
+
+def uppercase(word: str) -> str:
+    return word.upper()
+
+
+
