@@ -37,12 +37,11 @@ In a office, in chatbot, if user has to redirect the query to respective departm
 
 
 Each Crew Agent has
-**Name**
-**Role**
-**Goal**
-**Backstory**
-**Model(LLM)**
-**Tools(APIs, Databases)**
+1) **Name**
+2) **Role**
+3) **Goal****Backstory**
+4) **Model(LLM)**
+5) **Tools(APIs, Databases)**
 
 
 
