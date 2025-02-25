@@ -1,6 +1,7 @@
 
 
 **CrewAI**
+A crew in crewAI represents a collaborative group of agents working together to achieve a set of tasks. Each crew defines the strategy for task execution, agent collaboration, and the overall workflow.
 
 *Agents:*
 
