@@ -79,5 +79,12 @@ Each Crew Agent has
 
 
 
+**Knowledge**
+What is knowledge in CrewAI and how to use it.
+
+​
+**What is Knowledge?**
+Knowledge in CrewAI is a powerful system that allows AI agents to access and utilize external information sources during their tasks. Think of it as giving your agents a reference library they can consult while working.
+
 
 
