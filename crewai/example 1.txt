@@ -16,14 +16,13 @@ news_scrapper_agent = Agent (
 
 ##############################################
 
-
-
-
 Agent 2
 Name: Summrizer Agent
 Role: COntent Analyst
 Task: Extract key info from news
 
+
+###########################################################
 
 
 
