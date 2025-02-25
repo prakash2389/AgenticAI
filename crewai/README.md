@@ -45,6 +45,14 @@ Each Crew Agent has
 6) **Tools(APIs, Databases)**
 
 
+**news_scrapper_agent** = Agent (
+      name = "News_Scrapper",
+      role = "web crawler",
+      goal = "Fetch latest news from internet",
+      backstory = "An expert in web crawling ans retrieving news articles",
+      llm= ChatOpenAI(model_name="gpt-04"),
+      tools=[news_scrapper_tool]
+)
 
 
 
