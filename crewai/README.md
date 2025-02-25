@@ -55,6 +55,13 @@ Each Crew Agent has
             )
 
 
+Task: Fetch News
+
+Assigned Agent: News Scrapper Agent
+
+Process:  Step 1 (STart)
+
+
 
 
 
