@@ -62,11 +62,19 @@ Each Crew Agent has
             )
 
 
-Task: Fetch News
 
-Assigned Agent: News Scrapper Agent
 
-Process:  Step 1 (STart)
+
+
+
+1) Task: Fetch News
+2) Assigned Agent: News Scrapper Agent
+3) Process:  Step 1 (STart)
+
+
+
+1) **Sequential Execution** of above three steps for each Task
+2) **Parallel Execution** of above three steps for each Task
 
 
 
